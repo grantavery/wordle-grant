@@ -1,0 +1,8 @@
+{
+  "short_name": "Wordle by Grant Avery",
+  "name": "Wordle. A modified version by Grant Avery",
+  "background_color": "#6aaa64",
+  "display": "standalone",
+  "theme_color": "#6aaa64",
+  "description": "A daily word game"
+}
